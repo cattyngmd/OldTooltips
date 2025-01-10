@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.cattyn.oldtooltips.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+  ],
+  "client": [
+    "MixinTooltipBackgroundRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
